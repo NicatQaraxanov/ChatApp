@@ -1,0 +1,15 @@
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\bin\Debug\WPFFF.exe.config
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\bin\Debug\WPFFF.exe
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\bin\Debug\WPFFF.pdb
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF.csproj.AssemblyReference.cache
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\MainWindow.g.cs
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\App.g.cs
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF_MarkupCompile.cache
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF_MarkupCompile.lref
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\MainWindow.baml
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF.g.resources
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF.Properties.Resources.resources
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF.csproj.GenerateResource.cache
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF.exe
+C:\Users\tnqar\source\repos\WPFFF\WPFFF\obj\Debug\WPFFF.pdb
